@@ -41,7 +41,7 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 ## 📖 Open Source Software Component Analysis and Bill of Materials
 
-- ``Computers & Security 2025`` [Tool or Toy: Are SCA tools ready for challenging scenarios?](https://www.sciencedirect.com/science/article/pii/S016740482500313X), Chengcheng Wu, **Wentao Chen**, Guisheng Fan, Huiqun Yu, Zijie Huang, Yuguo Liang  (CCF-B Journal, SCI-II)
+- ``Computers & Security 2025`` [Tool or Toy: Are SCA tools ready for challenging scenarios?](https://www.sciencedirect.com/science/article/pii/S016740482500313X), Congyan Shu, **Wentao Chen**, Guisheng Fan, Huiqun Yu, Zijie Huang, Yuguo Liang  (CCF-B Journal, SCI-II)
 
 ## 💣 Open Source Software Reliability and Security
 
