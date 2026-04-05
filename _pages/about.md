@@ -22,7 +22,7 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ITS. 
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by FSE industry track. 
 
 
 # 📝 Publications 
@@ -40,6 +40,8 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 </div> -->
 
 ## 📖 Open Source Software Component Analysis and Bill of Materials
+
+- ``FSE'26 Industry Track`` [JDetect: A Fine-Grained Detecting Method for Java Source SCA by Fusing Behavioral and Code Features](https://doi.org/10.1145/3803437.3805233), Guisheng Fan, Shulin Liu, **Wentao Chen**,  Huiqun Yu, Huan Wang, Diwen Shi  (CCF-A Conference)
 
 - ``Computers & Security 2025`` [Tool or Toy: Are SCA tools ready for challenging scenarios?](https://www.sciencedirect.com/science/article/pii/S016740482500313X), Congyan Shu, **Wentao Chen**, Guisheng Fan, Huiqun Yu, Zijie Huang, Yuguo Liang  (CCF-B Journal, SCI-II)
 
