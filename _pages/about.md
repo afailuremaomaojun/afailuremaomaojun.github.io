@@ -65,4 +65,4 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 # 📖 Educations
 - *2024.09 - now*, Ph.D., East China University of Science and Technology, Shanghai
-- *2020.09 - 2024.06*, Ph.D., East China University of Science and Technology, Shanghai. 
+- *2020.09 - 2024.06*, B.Eng., East China University of Science and Technology, Shanghai. 
