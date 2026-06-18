@@ -22,7 +22,7 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted by FSE industry track. 
+- *2026.06*: &nbsp;🎉🎉 One paper is directly accepted by ASE. 
 
 
 # 📝 Publications 
@@ -47,6 +47,8 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 ## 💣 Open Source Software Reliability and Security
 
+- ``IST 2026`` [Revisiting Pre-trained Models and Feature Fusion Strategies for Just-In Time Defect Prediction](https://www.sciencedirect.com/science/article/pii/S095058492600159X), Yuguo Liang, Guisheng Fan, Huiqun Yu, **Wentao Chen**, Chengcheng Wu, Zijie  Huang (CCF-B Journal, SCI-II)
+
 - ``SCP 2026`` [Automatic identification of extrinsic bug reports for just-in-time bug prediction](https://doi.org/10.1016/j.scico.2025.103410),  Guisheng Fan, Yuguo Liang, Longfei Zu, Huiqun Yu, Zijie Huang,  **Wentao Chen** (CCF-B Journal)
 
 - ``COMPSAC 2025`` [JIT-Align: A Semantic Alignment-Based Ranking Framework for Just-In-Time Defect Prediction](https://ieeexplore.ieee.org/abstract/document/11126559/), Yujie Ye, Huiqun Yu, Guisheng Fan, Yuguo Liang, Jianan Dong, **Wentao Chen** (CCF-C Conference)
@@ -61,7 +63,9 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 ## 📈 Open Source Software Maintenance and Sustainability
 
-- ``IST 2025`` [Usage Patterns of Software Product Metrics in Assessing Developers’ Output: A Comprehensive Study](none), **Wentao Chen**, Huiqun Yu , Guisheng Fan, Zijie Huang, Yuguo Liang (CCF-B Journal, SCI-II)
+- ``ASE 2026`` [RealAIGC: Towards More Realistic Evaluation of AI-Generated Code Detection in Real-World Code Repository](none), **Wentao Chen**, Yufei Chen, Huiqun Yu , Guisheng Fan, Kaiwen Zhi, Peite Guo, Jianyuan Yu (CCF-A Conference)
+
+- ``IST 2025`` [Usage Patterns of Software Product Metrics in Assessing Developers’ Output: A Comprehensive Study](https://www.sciencedirect.com/science/article/pii/S0950584925002745), **Wentao Chen**, Huiqun Yu , Guisheng Fan, Zijie Huang, Yuguo Liang (CCF-B Journal, SCI-II)
 
 # 📖 Educations
 - *2024.09 - now*, Ph.D., East China University of Science and Technology, Shanghai
