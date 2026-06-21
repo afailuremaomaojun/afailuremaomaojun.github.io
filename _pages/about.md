@@ -63,9 +63,13 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 ## 📈 Open Source Software Maintenance and Sustainability
 
-- ``ASE 2026`` [RealAIGC: Towards More Realistic Evaluation of AI-Generated Code Detection in Real-World Code Repository](none), **Wentao Chen**, Yufei Chen, Huiqun Yu , Guisheng Fan, Kaiwen Zhi, Peite Guo, Jianyuan Yu (CCF-A Conference)
+- ``ASE 2026`` [RealAIGC: Towards More Realistic Evaluation of AI-Generated Code Detection in Real-World Code Repository](none), **Wentao Chen**, Yufei Chen, Huiqun Yu, Guisheng Fan, Kaiwen Zhi, Peite Guo, Jianyuan Yu (CCF-A Conference)
 
-- ``IST 2025`` [Usage Patterns of Software Product Metrics in Assessing Developers’ Output: A Comprehensive Study](https://www.sciencedirect.com/science/article/pii/S0950584925002745), **Wentao Chen**, Huiqun Yu , Guisheng Fan, Zijie Huang, Yuguo Liang (CCF-B Journal, SCI-II)
+- ``IST 2025`` [Usage Patterns of Software Product Metrics in Assessing Developers’ Output: A Comprehensive Study](https://www.sciencedirect.com/science/article/pii/S0950584925002745), **Wentao Chen**, Huiqun Yu, Guisheng Fan, Zijie Huang, Yuguo Liang (CCF-B Journal, SCI-II)
+
+## 📦 Open Source Model Supply Chain Governance
+
+- ``SEKE 2026`` [A Federated Watermarking Method for Intellectual Property Protection in Model Supply Chain](none), Xiao Yi, Huiqun Yu, Hengrun Zhang, Guisheng Fan, **Wentao Chen** (CCF-C Conference)
 
 # 📖 Educations
 - *2024.09 - now*, Ph.D., East China University of Science and Technology, Shanghai
