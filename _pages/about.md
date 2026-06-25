@@ -22,7 +22,8 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 One paper is directly accepted by ASE. 
+- *2026.06*: &nbsp;🎉🎉 One paper is directly accepted by ASE 26.
+- *2026.06*: &nbsp;🎉🎉 Congratulation to Kaiwen! One Paper is accepted by ISSTA 26 after marjor revision. 
 
 
 # 📝 Publications 
@@ -62,6 +63,8 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 - ``COMPSAC 2025`` [License Compatibility Detection for OpenJavaWorks Open-Source Projects Based on Code Similarity](https://ieeexplore.ieee.org/abstract/document/11126811/), Xiaotong Wang, Huiqun Yu, Guisheng Fan, Yuguo Liang, **Wentao Chen**, Jingyi Liu (CCF-C Conference)
 
 ## 📈 Open Source Software Maintenance and Sustainability
+
+- ``ISSTA 2026`` [Unpacking AI Agent Participation in Issue-Centered Collaboration in Open-Source Software Development](none), Kaiwen Zhi, Guisheng Fan, **Wentao Chen** (CCF-A Conference)
 
 - ``ASE 2026`` [RealAIGC: Towards More Realistic Evaluation of AI-Generated Code Detection in Real-World Code Repository](none), **Wentao Chen**, Yufei Chen, Huiqun Yu, Guisheng Fan, Kaiwen Zhi, Peite Guo, Jianyuan Yu (CCF-A Conference)
 
