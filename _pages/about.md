@@ -54,7 +54,7 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 - ``COMPSAC 2025`` [JIT-Align: A Semantic Alignment-Based Ranking Framework for Just-In-Time Defect Prediction](https://ieeexplore.ieee.org/abstract/document/11126559/), Yujie Ye, Huiqun Yu, Guisheng Fan, Yuguo Liang, Jianan Dong, **Wentao Chen** (CCF-C Conference)
 
-- ``CollaborateCom 2025`` [JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change](none), Yuguo Liang, Chengcheng Wu, **Wentao Chen**, Guisheng Fan, Huiqun Yu (CCF-C Conference)
+- ``CollaborateCom 2025`` [JIT-Coka: An Improved Framework for Just-in-Time Defect Prediction and Localization Using Fused Features of Code Change](https://link.springer.com/chapter/10.1007/978-3-032-21168-2_10), Yuguo Liang, Chengcheng Wu, **Wentao Chen**, Guisheng Fan, Huiqun Yu (CCF-C Conference)
 
 - ``COMPSAC 2025`` [VFProber: A Vulnerability-Fixing Identification Framework Based on Code Changes and Semantic Adjustment](https://ieeexplore.ieee.org/abstract/document/11126599/), Jianan Dong, Guisheng Fan, Yueming Yu, Yuguo Liang, Yujie Ye, Huiqun Yu, **Wentao Chen** (CCF-C Conference)
 
@@ -64,11 +64,11 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 ## 📈 Open Source Software Maintenance and Sustainability
 
-- ``ASE 2026 industry`` [A Longitudinal Analysis of Software Development Evolution in a Financial Organization](none), **Wentao Chen**, Zehong Zhang, Huiqun Yu, Guisheng Fan, Huan Wang, Kaiwen Zhi (CCF-A Conference)
+- ``ASE 2026 industry`` [A Longitudinal Analysis of Software Development Evolution in a Financial Organization](https://doi.org/10.1145/3832783.3834515), **Wentao Chen**, Zehong Zhang, Huiqun Yu, Guisheng Fan, Huan Wang, Kaiwen Zhi (CCF-A Conference)
 
-- ``ISSTA 2026`` [Unpacking AI Agent Participation in Issue-Centered Collaboration in Open-Source Software Development](none), Kaiwen Zhi, Guisheng Fan, **Wentao Chen** (CCF-A Conference)
+- ``ISSTA 2026`` [Unpacking AI Agent Participation in Issue-Centered Collaboration in Open-Source Software Development](https://doi.org/10.1145/3832206), Kaiwen Zhi, Guisheng Fan, **Wentao Chen** (CCF-A Conference)
 
-- ``ASE 2026`` [RealAIGC: Towards More Realistic Evaluation of AI-Generated Code Detection in Real-World Code Repository](none), **Wentao Chen**, Yufei Chen, Huiqun Yu, Guisheng Fan, Kaiwen Zhi, Peite Guo, Jianyuan Yu (CCF-A Conference)
+- ``ASE 2026`` [RealAIGC: Towards More Realistic Evaluation of AI-Generated Code Detection in Real-World Code Repository](https://doi.org/10.1145/3832783.3834411), **Wentao Chen**, Yufei Chen, Huiqun Yu, Guisheng Fan, Kaiwen Zhi, Peite Guo, Jianyuan Yu (CCF-A Conference)
 
 - ``IST 2025`` [Usage Patterns of Software Product Metrics in Assessing Developers’ Output: A Comprehensive Study](https://www.sciencedirect.com/science/article/pii/S0950584925002745), **Wentao Chen**, Huiqun Yu, Guisheng Fan, Zijie Huang, Yuguo Liang (CCF-B Journal, SCI-II)
 
