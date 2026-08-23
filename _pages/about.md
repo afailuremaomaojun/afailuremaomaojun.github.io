@@ -64,7 +64,7 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 ## 📈 Open Source Software Maintenance and Sustainability
 
-- ``ASE 2026 industry`` [A Longitudinal Analysis of Software Development Evolution in a Financial Organization](https://doi.org/10.1145/3832783.3834515), **Wentao Chen**, Zehong Zhang, Huiqun Yu, Guisheng Fan, Huan Wang, Kaiwen Zhi (CCF-A Conference)
+- ``ASE 2026 Industry`` [A Longitudinal Analysis of Software Development Evolution in a Financial Organization](https://doi.org/10.1145/3832783.3834515), **Wentao Chen**, Zehong Zhang, Huiqun Yu, Guisheng Fan, Huan Wang, Kaiwen Zhi (CCF-A Conference)
 
 - ``ISSTA 2026`` [Unpacking AI Agent Participation in Issue-Centered Collaboration in Open-Source Software Development](https://doi.org/10.1145/3832206), Kaiwen Zhi, Guisheng Fan, **Wentao Chen** (CCF-A Conference)
 
@@ -74,7 +74,7 @@ My research interests include Open Source Software Ecosystem Governance, Artific
 
 ## 📦 Open Source Model Supply Chain Governance
 
-- ``SEKE 2026`` [A Federated Watermarking Method for Intellectual Property Protection in Model Supply Chain](none), Xiao Yi, Huiqun Yu, Hengrun Zhang, Guisheng Fan, **Wentao Chen** (CCF-C Conference)
+- ``SEKE 2026`` [A Federated Watermarking Method for Intellectual Property Protection in Model Supply Chain](https://doi.org/10.18293/SEKE2026-009), Xiao Yi, Huiqun Yu, Hengrun Zhang, Guisheng Fan, **Wentao Chen** (CCF-C Conference)
 
 # 📖 Educations
 - *2024.09 - now*, Ph.D., East China University of Science and Technology, Shanghai
