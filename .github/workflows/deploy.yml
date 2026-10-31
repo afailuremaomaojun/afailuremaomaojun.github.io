@@ -31,7 +31,12 @@ jobs:
         run: npm ci --include=dev
 
       - name: Check source code
-        run: npm run lint
+        run: |
+          npm config get omit
+          npm ls eslint || true
+          ls -l node_modules/.bin/eslint || true
+          node ./node_modules/eslint/bin/eslint.js --version
+          node ./node_modules/eslint/bin/eslint.js .
 
       - name: Build static site
         run: npm run build
