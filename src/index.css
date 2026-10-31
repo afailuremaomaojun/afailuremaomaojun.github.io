@@ -1,0 +1,124 @@
+@import '@fontsource/ibm-plex-sans/latin-400.css';
+@import '@fontsource/ibm-plex-sans/latin-500.css';
+@import '@fontsource/ibm-plex-sans/latin-600.css';
+@import '@fontsource/source-serif-4/latin-400.css';
+@import '@fontsource/source-serif-4/latin-500.css';
+@import '@fontsource/source-serif-4/latin-600.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Research palette: engineering blue, ecosystem teal, and evidence accents. */
+  --navy-950: #1c304c;
+  --blue-700: #003b8f;
+  --blue-600: #004da8;
+  --blue-100: #e7f0fa;
+  --teal-600: #007d77;
+  --teal-500: #019e96;
+  --powder-300: #a5cfde;
+  --sky-300: #8fceee;
+  --coral-500: #f56955;
+  --mustard-400: #f4b970;
+  --ink-950: var(--navy-950);
+  --ink-700: #526477;
+  --paper-50: #fbfdfd;
+  --paper-100: #f0f7f8;
+  --line-light: #d8e5e9;
+  --line-dark: #465a70;
+  --text-on-dark: #f4f8fa;
+  --muted-on-dark: #b9c9d3;
+  --blue-on-dark: var(--sky-300);
+
+  --background: var(--paper-50);
+  --foreground: var(--ink-950);
+  --primary: var(--blue-700);
+  --primary-foreground: var(--paper-50);
+  --muted: var(--paper-100);
+  --muted-foreground: var(--ink-700);
+  --border: var(--line-light);
+  --ring: var(--teal-600);
+
+  color: var(--foreground);
+  background: var(--background);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 92px;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100dvh;
+  background: var(--background);
+  color: var(--foreground);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+::selection {
+  color: var(--ink-950);
+  background: #dceef4;
+}
+
+:focus-visible {
+  outline: 2px solid var(--teal-600);
+  outline-offset: 4px;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-weight: 500;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
